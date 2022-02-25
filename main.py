@@ -29,6 +29,7 @@ def get_flight_info(url):
         'arrival_time':arrival_time,
         }
         flights_info_list.append(temp_dict)
+    driver.close()
     return flights_info_list
 
 
