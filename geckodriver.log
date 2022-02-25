@@ -1,0 +1,1319 @@
+1645710655679	geckodriver	INFO	Listening on 127.0.0.1:42223
+1645710656180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "39777" "-no-remote" "-profile" "/tmp/rust_mozprofileC775QV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645710659186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC775QV/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:39777/devtools/browser/a9200bf0-29a2-448f-8417-05abf4044b7c
+1645710665756	Marionette	INFO	Listening on port 36581
+1645710665824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645710669632	Marionette	INFO	Stopped listening on port 36581
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645711629900	geckodriver	INFO	Listening on 127.0.0.1:41019
+1645711630407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "32887" "-no-remote" "-profile" "/tmp/rust_mozprofilea2U7Ur"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645711633508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea2U7Ur/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:32887/devtools/browser/d8cde23d-6675-415c-a6d9-dbdbcbcca146
+1645711640524	Marionette	INFO	Listening on port 46549
+1645711640714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.latamairlines.com/eGV-0Ft7k/q0BC/d5F4C/QXpLycYuo/ENhEfrpz1L/eD8hahxXGAE/AiVWax/0FFRw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+1645714077166	Marionette	INFO	Stopped listening on port 46549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645792907355	geckodriver	INFO	Listening on 127.0.0.1:53083
+1645792907854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "60137" "-no-remote" "-profile" "/tmp/rust_mozprofileUEZdpt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645792910316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEZdpt/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:60137/devtools/browser/f4f712eb-42c0-4286-ba9e-d79f6582f411
+1645792916692	Marionette	INFO	Listening on port 38899
+1645792917121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.latamairlines.com/oEQzEt/AKI/Bqb/FlnnP6Kf/OcafrGhfXa/LRJ3AEFcVA/Lhw1J/QBbWzw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451070/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451073/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451073/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451073/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451062"
+console.error: "Unable to find target with innerWindowId:6442451062"
+console.error: "Unable to find target with innerWindowId:6442451062"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451082/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451087/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451087/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451084/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451087/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451088/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451088/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451088/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451076"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451096/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451090/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451090/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451090/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451103/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451103/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451103/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451090"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451112/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451116/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451116/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451116/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645794011414	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451131/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:578:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451118/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451118/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("inspectorFront.walker is null", "resource://devtools/shared/commands/resource/legacy-listeners/root-node.js", 50))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451132/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451132/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451118/domwalker64 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451132/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451118"
+console.error: "Unable to find target with innerWindowId:6442451118"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645794185367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451147/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451147/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451147/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1645794608787	geckodriver	INFO	Listening on 127.0.0.1:35371
+1645794609292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "35045" "-no-remote" "-profile" "/tmp/rust_mozprofile0M9iMS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645794612479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0M9iMS/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:35045/devtools/browser/7f9003e1-fd63-4667-8a65-532c2dcc9001
+1645794619140	Marionette	INFO	Listening on port 37341
+1645794619227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.latamairlines.com/oEQzEt/AKI/Bqb/FlnnP6Kf/OcafrGhfXa/LRJ3AEFcVA/Lhw1J/QBbWzw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645794868595	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+1645794868630	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+1645797070556	Marionette	INFO	Stopped listening on port 37341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645797077666	geckodriver	INFO	Listening on 127.0.0.1:51117
+1645797078169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "41027" "-no-remote" "-profile" "/tmp/rust_mozprofileWaXj42"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645797080923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWaXj42/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:41027/devtools/browser/fb29344c-b248-4701-b5af-6c318c974452
+1645797088052	Marionette	INFO	Listening on port 42103
+1645797088210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.latamairlines.com/oEQzEt/AKI/Bqb/FlnnP6Kf/OcafrGhfXa/LRJ3AEFcVA/Lhw1J/QBbWzw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645797103068	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645797109634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645797109652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645797211268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+1645799971235	Marionette	INFO	Stopped listening on port 42103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645810735894	geckodriver	INFO	Listening on 127.0.0.1:58755
+1645810736389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-private" "--remote-debugging-port" "44063" "-no-remote" "-profile" "/tmp/rust_mozprofileXfzF9p"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645810739806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXfzF9p/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+DevTools listening on ws://localhost:44063/devtools/browser/fa1bcd5c-32ad-41a6-ad7c-8d243b4f9e2a
+1645810749138	Marionette	INFO	Listening on port 33933
+1645810749313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.latamairlines.com/oEQzEt/AKI/Bqb/FlnnP6Kf/OcafrGhfXa/LRJ3AEFcVA/Lhw1J/QBbWzw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645810802059	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451031/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451033/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451036/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:578:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451037/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451037/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451037/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451025"
+console.error: "Unable to find target with innerWindowId:6442451025"
+console.error: "Unable to find target with innerWindowId:6442451025"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451045/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451047/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451050/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451050/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451051/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451051/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451050/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451051/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451039"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451053/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451053/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451053/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451053"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645811927081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645811927116	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+1645811942175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645811942178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451103/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451097/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451097/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451109/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451109/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451097/domwalker37 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451109/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442451097"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451117/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451119/domwalker23, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451123/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451123/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451123/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451111/domwalker49 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451111/domwalker49 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal6442451111/domwalker49 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: , line 0: InvalidStateError: A mutation operation was attempted on a database that did not allow mutations.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.latamairlines.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451136/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451136/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451136/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451137/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451137/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451137/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1958: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 372: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 372: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645812817775	Marionette	INFO	Stopped listening on port 33933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
